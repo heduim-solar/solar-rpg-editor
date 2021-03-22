@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "rootDir": "./",
+    "baseUrl": "./",
+    "outDir": "../",
+    "target": "esnext",
+    "lib": ["esnext"],
+    "moduleResolution": "node",
+    "allowJs": true,
+    "experimentalDecorators": true,
+    "preserveSymlinks": true,
+    "strictNullChecks": false,
+    "strictPropertyInitialization": false,
+    "strict": true
+  },
+  "include": ["./"],
+  "exclude": [],
+  "tstl": {
+    "luaTarget": "JIT",
+    "sourceMapTraceback": true,
+    "luaBundleEntry": "./App.ts"
+  }
+}
