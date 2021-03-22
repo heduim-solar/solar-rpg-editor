@@ -1,0 +1,13 @@
+{
+	"id":"2103141031420001",
+	"show_in_plugin_panel":true,
+	"show_in_trigger_panel":false,
+	"show_in_res_panel":false,
+	"show_in_unit_panel":false,
+	"show_in_item_panel":false,
+	"show_in_ability_panel":false,
+	"show_in_upgrade_panel":false,
+	"show_in_doodad_panel":false,
+	"show_in_destructable_panel":false,
+	"show_in_buff_panel":false
+}
