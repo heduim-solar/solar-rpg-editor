@@ -7,8 +7,11 @@
 [太阳rpg编辑器宣传片](https://www.bilibili.com/video/BV1BV411H7Rw)
 
 
-[ 太阳rpg编辑器交流QQ群:941442872](https://jq.qq.com/?_wv=1027&k=db0vJPbN)
- 
+[太阳rpg编辑器交流QQ群:941442872](https://jq.qq.com/?_wv=1027&k=db0vJPbN)
+
+
+[ 太阳rpg编辑器wiki](https://github.com/heduim-solar/solar-rpg-editor/wiki)
+
 
 [![Watch the video](https://gitee.com/sgdb/sp/raw/master/pngs/%E5%90%88%E5%AF%B9%E9%9D%A2%E7%A7%91%E6%8A%80%E5%B0%81%E9%9D%A2.png)](https://www.bilibili.com/video/BV1BV411H7Rw)
 
