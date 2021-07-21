@@ -2,7 +2,7 @@
 太阳rpg编辑器相关开源库
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
-[![Watch the video](https://i1.hdslb.com/bfs/archive/1f32da7fadda4dc7db7770de973b6f5ebde3eadd.jpg@160w_100h_100Q_1c.webp)](https://www.bilibili.com/video/BV1BV411H7Rw)
+[![Watch the video](https://gitee.com/sgdb/sp/raw/master/pngs/%E5%90%88%E5%AF%B9%E9%9D%A2%E7%A7%91%E6%8A%80%E5%B0%81%E9%9D%A2.png)](https://www.bilibili.com/video/BV1BV411H7Rw)
 
 <iframe width="80%" height="600px" style="margin-left: 10%"
         src="//player.bilibili.com/player.html?aid=419174027&bvid=BV1BV411H7Rw&cid=368740390&page=1&high_quality=1"
