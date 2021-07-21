@@ -2,15 +2,19 @@
 太阳rpg编辑器相关开源库
 
 [太阳rpg编辑器官网 www.heduim.com](http://www.heduim.com)
+<a href="http://www.heduim.com" target="_blank">太阳rpg编辑器官网 www.heduim.com</a>
 
 
-[太阳rpg编辑器宣传片](https://www.bilibili.com/video/BV1BV411H7Rw)
+[太阳rpg编辑器视频宣传片](https://www.bilibili.com/video/BV1BV411H7Rw)
+<a href="https://www.bilibili.com/video/BV1BV411H7Rw" target="_blank">太阳rpg编辑器视频宣传片</a>
 
 
 [太阳rpg编辑器交流QQ群:941442872](https://jq.qq.com/?_wv=1027&k=db0vJPbN)
+<a href="https://jq.qq.com/?_wv=1027&k=db0vJPbN" target="_blank">太阳rpg编辑器交流QQ群:941442872</a>
 
 
 [ 太阳rpg编辑器wiki](https://github.com/heduim-solar/solar-rpg-editor/wiki)
+<a href="https://github.com/heduim-solar/solar-rpg-editor/wiki" target="_blank">太阳rpg编辑器wiki</a>
 
 
 [![Watch the video](https://gitee.com/sgdb/sp/raw/master/pngs/%E5%90%88%E5%AF%B9%E9%9D%A2%E7%A7%91%E6%8A%80%E5%B0%81%E9%9D%A2.png)](https://www.bilibili.com/video/BV1BV411H7Rw)
