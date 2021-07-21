@@ -14,8 +14,6 @@
 
 可执行的exe程序请在此仓库releases里下载
 
-[![Watch the video](https://gitee.com/sgdb/sp/raw/master/pngs/%E5%90%88%E5%AF%B9%E9%9D%A2%E7%A7%91%E6%8A%80%E5%B0%81%E9%9D%A2.png)](https://www.bilibili.com/video/BV1BV411H7Rw)
-
  
 太阳rpg架构
 <img src="https://raw.githubusercontent.com/heduim-solar/solar-rpg-editor/main/%E5%A4%AA%E9%98%B3rpg%E6%9E%B6%E6%9E%84.jpg"/>
