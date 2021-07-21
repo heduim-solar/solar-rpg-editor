@@ -2,7 +2,14 @@
 太阳rpg编辑器相关开源库
 
 [太阳rpg编辑器官网 www.heduim.com](http://www.heduim.com)
-点击下图观看太阳rpg编辑器宣传片:
+
+
+[太阳rpg编辑器宣传片](https://www.bilibili.com/video/BV1BV411H7Rw)
+
+
+[ 太阳rpg编辑器交流QQ群:941442872](https://jq.qq.com/?_wv=1027&k=db0vJPbN)
+ 
+
 [![Watch the video](https://gitee.com/sgdb/sp/raw/master/pngs/%E5%90%88%E5%AF%B9%E9%9D%A2%E7%A7%91%E6%8A%80%E5%B0%81%E9%9D%A2.png)](https://www.bilibili.com/video/BV1BV411H7Rw)
 
  
@@ -16,11 +23,6 @@
 太阳rpg界面
 <img src="https://raw.githubusercontent.com/heduim-solar/solar-rpg-editor/main/%E5%A4%AA%E9%98%B3rpg%E7%95%8C%E9%9D%A2.png"/>
 
-
-
-
-
-太阳rpg编辑器交流QQ群:941442872
 
 作者联系 QQ: 1053831109
 
