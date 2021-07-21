@@ -1,20 +1,11 @@
 # solar-rpg-editor
 太阳rpg编辑器相关开源库
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[太阳rpg编辑器官网 www.heduim.com](http://www.heduim.com)
+点击下图观看太阳rpg编辑器宣传片:
 [![Watch the video](https://gitee.com/sgdb/sp/raw/master/pngs/%E5%90%88%E5%AF%B9%E9%9D%A2%E7%A7%91%E6%8A%80%E5%B0%81%E9%9D%A2.png)](https://www.bilibili.com/video/BV1BV411H7Rw)
 
-<iframe width="80%" height="600px" style="margin-left: 10%"
-        src="//player.bilibili.com/player.html?aid=419174027&bvid=BV1BV411H7Rw&cid=368740390&page=1&high_quality=1"
-        scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-        
-        
-        <iframe
-                        style="margin-left: 2px; margin-bottom:-5px;"
-                        frameborder="0" scrolling="0" width="100px" height="20px"
-                        src="https://ghbtns.com/github-btn.html?user=fandongtongxue&repo=fandongtongxue.github.io&type=star&count=true" >
-                    </iframe>
-
+ 
 
 可执行的exe程序请在此仓库releases里下载
 
