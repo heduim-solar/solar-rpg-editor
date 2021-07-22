@@ -18,6 +18,27 @@
 太阳rpg架构
 <img src="https://raw.githubusercontent.com/heduim-solar/solar-rpg-editor/main/%E5%A4%AA%E9%98%B3rpg%E6%9E%B6%E6%9E%84.jpg"/>
 
+编辑方式:（括号内为大约的使用时长占比）
+
+TS/lua/j或与T混编作者： 太阳rpg编辑器(40%) + VSCode/WebStorm(40%) + WPS(10%) + WE(10%)
+T触发作者：                    WE(60%) + 太阳rpg编辑器(30%) + WPS(10%)
+
+
+
+
+编辑工具主要职能:
+
+太阳rpg编辑器：   整合其他工具、xlsx物编、UI编辑、批量编辑预览、增量秒级保存、支持TS脚本...（此处省略1万字）等特别的编辑功能
+WE：                    地形、T触发、等基础的编辑功能
+VSCode/WS：      编辑TS/Lua/jass
+WPS：                  物编 (太阳rpg编辑器打开地图后有xlsx表格格式的物编,单元格内容#等于空)
+
+
+
+太阳rpg编辑器保存的是标准的w3x文件，所以太阳rpg编辑器可与任何其他编辑器同时使用，不会冲突！
+（不要在编辑器里多选一，在不同的编辑需求时请选择合适的编辑器）
+
+
 太阳rpg界面
 <img src="https://raw.githubusercontent.com/heduim-solar/solar-rpg-editor/main/%E5%A4%AA%E9%98%B3rpg%E7%95%8C%E9%9D%A2.png"/>
 
