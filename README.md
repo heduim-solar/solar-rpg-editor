@@ -22,10 +22,6 @@
 <img src="https://raw.githubusercontent.com/heduim-solar/solar-rpg-editor/main/%E5%A4%AA%E9%98%B3rpg%E7%95%8C%E9%9D%A2.png"/>
 
 
-
-
-安装过程中遇到激活码问题可以联系作者免费发放(记得发送序列号,序列号在设置激活码的地方)
-
 <img src="https://github.com/heduim-solar/solar-rpg-editor/blob/main/%E9%A6%96%E9%A1%B5.png"/>
 
 <img src="https://github.com/heduim-solar/solar-rpg-editor/raw/main/%E6%8F%92%E4%BB%B6%E7%AE%A1%E7%90%86.png"/>
