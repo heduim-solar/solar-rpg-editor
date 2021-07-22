@@ -14,6 +14,13 @@
 
 可执行的exe程序请在此仓库releases里下载
 
+编辑器推荐安装在默认路径(D:/太阳rpg编辑器) 
+
+编辑器初次安装后需要在文件 设置里检查设置是否自动设置正确(比如魔兽根目录是否正确)
+
+编辑器在运行中会依赖安装目录下的data目录 魔兽目录.如需使用快捷按钮打开vscode等程序需要配置对应程序的程序路径.
+
+
  
 太阳rpg架构
 <img src="https://raw.githubusercontent.com/heduim-solar/solar-rpg-editor/main/%E5%A4%AA%E9%98%B3rpg%E6%9E%B6%E6%9E%84.jpg"/>
@@ -46,6 +53,24 @@ WPS：                  物编 (太阳rpg编辑器打开地图后有xlsx表格�
 
 太阳rpg界面
 <img src="https://raw.githubusercontent.com/heduim-solar/solar-rpg-editor/main/%E5%A4%AA%E9%98%B3rpg%E7%95%8C%E9%9D%A2.png"/>
+
+太阳RPG编辑器优势
+
+1.编辑器非侵入式.在获得太阳rpg的功能特性时依旧可以使用其他编辑器与工具
+
+2.编辑器物编xlsx编辑 编辑响应快
+
+3.编辑器打开文件后自动解压为dir文件夹 方便编辑地图内的所有文件
+
+4.编辑器保存测试为增量更新 可秒级测试(只更新已修改的,WE为全量更新每次保存都卡)
+
+5.编辑器提供强大的Pcg支持体系以及插件体系(pcg=程序内容生成)
+
+6.编辑器提供了更多的功能,比如批量预览图标模型等等...
+
+7.通过shift ctrl可多选模型或物编进行批量预览编辑
+
+
 
 
 <img src="https://github.com/heduim-solar/solar-rpg-editor/blob/main/%E9%A6%96%E9%A1%B5.png"/>
