@@ -11,6 +11,7 @@ export default class App {
 
     start() {
 
+        
         DisplayTimedTextToPlayer(Player(0), 0, 0, 60, 'App.start():');
         let unit = new Unit(0, FourCC("hpea"), 0, 0, 0)
         DisplayTimedTextToPlayer(Player(0), 0, 0, 60, 'unit.acquireRange=' + unit.acquireRange);
